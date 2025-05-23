@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/422b5cd8-1669-4f4a-a523-75029b171df6)# Sistema de Cadastro de Produtos com Estoque e Carrinho
+# Sistema de Cadastro de Produtos com Estoque e Carrinho
 
 Este projeto é um sistema simples de cadastro, edição e gerenciamento de produtos com suporte a variações e controle de estoque, além de permitir adicionar produtos a um carrinho de compras via sessão PHP.
 
